@@ -70,11 +70,11 @@
         } // end if
 
         if ( !$iserror )  {
-            // $host="aa5a74z6wsu0ok.cbcfzbty21tt.us-east-1.rds.amazonaws.com";
-            // $name="admin";
-            // $pwd="aaaa8877";
-            // $port="3306";
-            // $db="ebdb";
+            // $host=""; //remove critical id
+            // $name="";
+            // $pwd="";
+            // $port="";
+            // $db="";
 
             $dbhost = $_SERVER['RDS_HOSTNAME'];
             $dbport = $_SERVER['RDS_PORT'];

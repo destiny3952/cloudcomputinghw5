@@ -56,11 +56,11 @@
         } // end if
 
         if ( !$iserror ){
-            // $host="localhost";
-            // $name="4104056041";
-            // $pwd="90761121";
+            // $host="localhost"; // removed
+            // $name="";
+            // $pwd="";
 
-            // $db="4104056041";
+            // $db="";
 
             // $con=mysqli_connect($host,$name,$pwd) or die("connection failed");
             
